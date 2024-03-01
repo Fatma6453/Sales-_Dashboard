@@ -56,4 +56,5 @@ Yearly Sales Forecasting: Use the sales data from previous years to forecast sal
 
 Market Expansion: Consider exploring opportunities in the APAC region, particularly in Japan, which is currently not represented in the top 5 customers. Conduct market research to understand the potential demand and adapt the product offering to cater to that market
 
+![Screenshot 2024-03-01 122350](https://github.com/Fatma6453/Sales-_Dashboard/assets/111332491/4cdfa9f0-f49e-4efc-8665-423bf3060ac1)
 
